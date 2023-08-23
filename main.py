@@ -4,7 +4,7 @@ from phonenumbers import carrier
 from opencage.geocoder import OpenCageGeocode
 import folium
 
-num = "+243979064470"
+num = "+243979064670"
 
 # touver le pays du numero
 monNum = phonenumbers.parse(num)
